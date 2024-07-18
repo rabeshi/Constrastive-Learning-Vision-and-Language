@@ -1,6 +1,6 @@
 ### Vision-and-Language
 
-1. **BioGPT ( BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining)** *Renqian Luo, Liai Sun, Yingce Xia, Tao Qin, Sheng Zhang, Hoifung Poon and Tie-Yan Liu.* [[Code]] (https://github.com/microsoft/BioGPT)
+1. **BioGPT ( BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining)** *Renqian Luo, Liai Sun, Yingce Xia, Tao Qin, Sheng Zhang, Hoifung Poon and Tie-Yan Liu.* [[code]] (https://github.com/microsoft/BioGPT)
 2. **CLIP (Contrastive Language-Image Pre-Training): Learning Transferable Visual Models From Natural Language Supervision** *Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever* `arXiv` [[pdf]](https://arxiv.org/abs/2103.00020)  [[code]](https://github.com/openai/CLIP)
 3. **Language Models Can See: Plugging Visual Controls in Text Generation** *Yixuan Su, Tian Lan, Yahui Liu, Fangyu Liu, Dani Yogatama, Yan Wang, Lingpeng Kong, Nigel Collier* `arXiv` [[pdf]](https://arxiv.org/abs/2205.02655) [[code]](https://github.com/yxuansu/magic)
 4. **UMIC: An Unreferenced Metric for Image Captioning via Contrastive Learning** *Hwanhee Lee, Seunghyun Yoon, Franck Dernoncourt, Trung Bui, Kyomin Jung* `ACL 2021` [[pdf]](https://arxiv.org/abs/2106.14019) [[code]](https://github.com/hwanheelee1993/UMIC)
